@@ -3,6 +3,7 @@
 
 # 项目管理
 - [Asana](https://asana.com)
+- [Jira Software](https://www.atlassian.com/software/jira)
 - [ONES Project](https://ones.ai/products/project.html)
 - [ONES Plan](https://ones.ai/products/plan.html)
 - [Teambition](https://www.teambition.com)
