@@ -49,9 +49,9 @@
 - [MindManager](https://www.mindmanager.cn/)
 
 # 时间管理
-- [微软代办](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-to-do-list-app)
-- [Todoist](https://doist.com)
+- [Microsoft To Do](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-to-do-list-app)
 - [Sorted](https://www.sortedapp.com)
+- [Todoist](https://doist.com)
 - [Things](https://culturedcode.com/things/)
 - [Any.do](https://www.any.do)
 - [滴答清单](https://www.dida365.com/home)
