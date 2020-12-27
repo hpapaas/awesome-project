@@ -14,6 +14,7 @@
 - [PingCode Agile](https://pingcode.com/product/agile)
 - [PingCode Plan](https://pingcode.com/product/plan)
 - [禅道](https://www.zentao.net)
+- [TargetProcess](https://www.targetprocess.com)
 
 # 甘特图
 - [OmniPlan](https://www.omnigroup.com/omniplan/)
