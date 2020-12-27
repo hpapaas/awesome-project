@@ -3,12 +3,16 @@
 
 # 项目管理
 - [Asana](https://asana.com)
+- [Wrike](https://www.wrike.com)
+- [Teamwork](https://www.teamwork.com)
 - [Jira Software](https://www.atlassian.com/software/jira)
 - [ONES Project](https://ones.ai/products/project.html)
 - [ONES Plan](https://ones.ai/products/plan.html)
 - [Teambition](https://www.teambition.com)
 - [TAPD](https://www.tapd.cn)
 - [Worktile Project](https://worktile.com/product/project)
+- [Zoho Sprints](https://www.zoho.com.cn/sprints/)
+- [Zoho Projects](https://www.zoho.com.cn/projects/)
 - [TodoNow](https://www.yugusoft.com)
 - [北极星](https://www.bjx.cloud)
 - [PingCode Agile](https://pingcode.com/product/agile)
@@ -17,12 +21,15 @@
 - [Tita](https://docs.tita.com/about-project)
 - [TargetProcess](https://www.targetprocess.com)
 - [Cornerstone](https://www.cornerstone365.cn/project.html)
+- [OpenProject](https://www.openproject.org)
+- [oKit](http://www.kingrein.com)
 
 # 甘特图
 - [OmniPlan](https://www.omnigroup.com/omniplan/)
 - [Merlin Project](http://www.merlin-project.eu/home/index.jsp)
 - [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
 - [Edraw Project](https://www.edrawsoft.cn/edrawproject/)
+- [TeamGantt](https://www.teamgantt.com)
 
 # 看板
 - [Trello](https://trello.com)
