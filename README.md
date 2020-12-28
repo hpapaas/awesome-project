@@ -56,7 +56,8 @@
 - [Edraw Max](https://www.edrawsoft.cn/edrawmax/)
 - [Edraw MindMaster](https://www.edrawsoft.cn/mindmaster/)
 - [XMind](https://www.xmind.cn)
-- [MindManager](https://www.mindmanager.cn/)
+- [MindManager](https://www.mindmanager.cn)
+- [迅捷画图](https://www.liuchengtu.com)
 
 # 时间管理
 - [Microsoft To Do](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-to-do-list-app)
